@@ -1,7 +1,7 @@
 # Cab-Booking-Mobile-App_Driver-End
-This Android/IOS mobile application, allow user to communicate with other registered users.
-This application requires active internet connection to send texts and to make video call.
-Services offered by this application are free of cost.
+This Android/IOS mobile application, allow driver to accept rider's trip request and to earn money from trip.
+This application requires active internet connection to accept trip requests.
+
 
 
 ## Driver Registration Screen
