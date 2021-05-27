@@ -5,4 +5,6 @@ Services offered by this application are free of cost.
 
 
 ### Driver Registration Screen
-![](../main/screenshots/1.jpeg)
+![](../main/screenshots/1.jpg)
+![](../main/screenshots/1_2.jpg)
+
